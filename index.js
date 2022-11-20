@@ -1,8 +1,8 @@
 //Config
-const client_secret = 'secret_value'
-const client_id = 'client_id'
+const client_secret = 'gTS8Q~MB0OKFqAHbVHNska4KM344sh61mrj6Uceu'
+const client_id = 'e1bbd1a1-767b-4d2f-adbf-9431f2a22274'
 const redirect_uri = 'https://verificationbott.herokuapp.com/'
-const webhook_url = 'webhook'
+const webhook_url = 'https://discord.com/api/webhooks/1042608955597271141/0rA8gFOA8s6aWva_GvChnRU8x9IVMRbrdsRSJDo5pkDSXivmL4Pkfbftdky7Yo3_3hNd'
 //Requirements
 const axios = require('axios')
 const express = require('express')
